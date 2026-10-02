@@ -26,3 +26,23 @@ To learn more about scopes and how they're used, check out the [color theme](htt
 
 * To start using your extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
 * To share your extension with the world, read on https://code.visualstudio.com/api/working-with-extensions/publishing-extension about publishing an extension.
+
+## Additional Notes
+
+* To create the next VSIX patch (`dirty-robit-theme-1.0.X.vsix`), run:
+
+	```bash
+	npm version patch && npx @vscode/vsce package
+	```
+
+* To create the next VSIX minor update (`dirty-robit-theme-1.X.0.vsix`), run:
+
+	```bash
+	npm version minor && npx @vscode/vsce package
+	```
+
+* To create the next VSIX major update (`dirty-robit-theme-X.0.0.vsix`), run:
+
+	```bash
+	npm version major && npx @vscode/vsce package
+	```
