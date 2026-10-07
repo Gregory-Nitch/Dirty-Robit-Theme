@@ -1,8 +1,9 @@
-# Change Log
+# Changelog
 
-All notable changes to the "Dirty Robit Theme" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [V 2.0.1]
+- Removed Changlog standard text
+- Changed highlight colors so that they are not so close together.
+- Matched Go to Definition peek-view backgrounds to the editor background in all four themes.
 
 ## [V 2.0.0]
 - Added Dirty Robit Darker, Dirty Robit Washed, and Dirty Robit Washed Darker themes

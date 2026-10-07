@@ -3,6 +3,12 @@
     "include": "./Dirty-Robit-Theme.json",
     "colors": {
         "editor.background": "#141210",
+        "peekViewEditor.background": "#141210",
+        "peekViewEditorGutter.background": "#141210",
+        "peekViewEditorStickyScroll.background": "#141210",
+        "peekViewEditorStickyScrollGutter.background": "#141210",
+        "peekViewResult.background": "#141210",
+        "peekViewTitle.background": "#141210",
         "editor.lineHighlightBackground": "#211D19",
         "editor.selectionBackground": "#322C25",
         "editor.inactiveSelectionBackground": "#322C2599",
