@@ -17,3 +17,9 @@ The earthy palette was inspired by WALL-E. This independent project is not affil
 
 ## Contributions
 Contributions and feedback are welcome, including reports of gaps or fixes in the theme.
+
+### Requirements
+- **Visual Studio Code** (`^1.125.0`) — required to use the theme or test changes via the Extension Development Host (`F5`). No build step or runtime dependencies are needed to edit the theme JSON files.
+- **Node.js & npm** (includes `npx`) — required for versioning (`npm version`) and packaging the extension.
+- **`@vscode/vsce`** — VS Code Extension Manager used to package `.vsix` releases (can be run directly via `npx @vscode/vsce package`).
+

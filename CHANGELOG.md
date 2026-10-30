@@ -1,5 +1,9 @@
 # Changelog
 
+## [V 2.0.2]
+- Updated the editor cursor, and terminal cursor to use the red from the theme (`#B05F4A`).
+- Added project requirements under Contributions in `README.md`.
+
 ## [V 2.0.1]
 - Removed Changlog standard text
 - Changed highlight colors so that they are not so close together.
