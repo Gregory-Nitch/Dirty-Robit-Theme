@@ -2,6 +2,7 @@
 
 ## [V 2.2.0]
 - Added Dirty Robit Brightened and Dirty Robit Washed Brightened themes with brighter text scopes and backgrounds for improved visibility in bright rooms.
+- Added an orange active tab border (`tab.activeBorder`) and updated the active indent guide scope line (`editorIndentGuide.activeBackground1`) to orange across all theme variants.
 
 ## [V 2.1.0]
 - Updated the editor cursor, and terminal cursor to use the red from the theme (`#B05F4A`).
