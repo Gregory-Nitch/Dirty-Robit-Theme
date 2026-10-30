@@ -45,6 +45,11 @@
         "path": "./themes/Dirty-Robit-Darker.json"
       },
       {
+        "label": "Dirty Robit Brightened",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dirty-Robit-Brightened.json"
+      },
+      {
         "label": "Dirty Robit Washed",
         "uiTheme": "vs-dark",
         "path": "./themes/Dirty-Robit-Washed.json"
@@ -53,6 +58,11 @@
         "label": "Dirty Robit Washed Darker",
         "uiTheme": "vs-dark",
         "path": "./themes/Dirty-Robit-Washed-Darker.json"
+      },
+      {
+        "label": "Dirty Robit Washed Brightened",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dirty-Robit-Washed-Brightened.json"
       }
     ]
   }
